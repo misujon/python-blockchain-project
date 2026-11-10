@@ -1,4 +1,4 @@
-## Python, JS, & React | Build a Blockchain & Cryptocurrency
+## Build a Blockchain & Cryptocurrency through Python, JS, & React
 
 ![Course Logo](python_blockchain_logo.png)
 
@@ -8,8 +8,6 @@
 - Learn JavaScript, Frontend Web Development, React.js, and React Hooks.
 
 The course's main project is to build a blockchain and cryptocurrency. With a blockchain and cryptocurrency system as the main goal, you will go through a course journey that starts with backend development using Python. Then, you will transaction to frontend web development with JavaScript, React.js, and React Hooks.
-
-Check out the course: https://www.udemy.com/course/python-js-react-blockchain/?referralCode=9051A01550E782315B77
 
 **Here's an overview of the overall course journey:**
 - Get an introduction of the Python Fundamentals.
